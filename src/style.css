@@ -1,0 +1,19 @@
+body, .container{
+    background-color: #5F38AD;
+}
+
+h2, h3{
+    color: white;
+}
+.form-control, .input-group-text{
+    margin-bottom: 10px;
+}
+
+.form-label{
+    color: white;
+    margin-top: 3px;
+}
+
+#btn-suscribe{
+    margin-bottom: 24px;
+}
